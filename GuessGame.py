@@ -15,5 +15,5 @@ while True:
         print("Hurray!!! I've guessed it in {} attempts".format(guesses))
         break
     else:
-        print("Please enter only h or l or c")
+        print("Can You Please enter only h or l or c")
     guesses +=1
